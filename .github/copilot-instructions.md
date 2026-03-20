@@ -12,3 +12,4 @@ The project documentation will be built during the bootcamp sessions.
 - [Functional Requirements](../docs/functional-requirements.md) - Functional and non-functional requirements
 - [UI Guidelines](../docs/ui-guidelines.md) - Material UI components, color palette, and styling standards
 - [Testing Guidelines](../docs/testing-guidelines.md) - Testing strategy, conventions, and tooling
+- [Coding Guidelines](../docs/coding-guidelines.md) - Formatting rules, import organization, linting, and best practices
